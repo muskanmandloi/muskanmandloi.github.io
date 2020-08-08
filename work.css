@@ -1,0 +1,9 @@
+body{
+	
+	color:#ccc;
+	
+    background-image: url("./images/wall.jpg");
+	
+	background-size: cover;
+	font-size: 16px;
+}
